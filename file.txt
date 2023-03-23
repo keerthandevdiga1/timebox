@@ -1,0 +1,4 @@
+planing and reserch 
+design coding
+testing
+deployement
